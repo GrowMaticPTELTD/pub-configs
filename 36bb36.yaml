@@ -1,0 +1,7 @@
+mcpServers:
+  on-page-seo-mcp:
+    type: streamable-http
+    url: https://mcp.onpageseomcp.com/39a4079161daa043/mcp
+    initTimeout: 30000
+    timeout: 120000
+    serverInstructions: true
